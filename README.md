@@ -28,6 +28,8 @@
   - [图神经网络 Graph Neural Networks](papers/graph-neural-networks.md)
   - [生成模型 Generative Models](papers/generative-models.md)
   - [强化学习 Reinforcement Learning](papers/reinforcement-learning.md)
+  - [交通信号灯控制 Traffic Signal Control](papers/traffic-signal-control.md)
+  - [车道线检测 Lane Detection](papers/lane-detection.md)
 - [课程 Courses](#课程-courses)
   - [深度学习课程](courses/deep-learning.md)
   - [机器学习课程](courses/machine-learning.md)
@@ -60,6 +62,8 @@
 - [图神经网络 Graph Neural Networks](papers/graph-neural-networks.md)
 - [生成模型 Generative Models](papers/generative-models.md)
 - [强化学习 Reinforcement Learning](papers/reinforcement-learning.md)
+- [交通信号灯控制 Traffic Signal Control](papers/traffic-signal-control.md)
+- [车道线检测 Lane Detection](papers/lane-detection.md)
 
 建议每个子页面包含：
 

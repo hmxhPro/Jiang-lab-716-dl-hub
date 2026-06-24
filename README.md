@@ -1,8 +1,11 @@
-# Jiang Lab 716 AI Hub
+
+# Jiang  716 Deep Learning Hub
 
 716 蒋老师课题组深度学习资源导航
+![alt text](716蒋老师团队.jpg)
 
-# 716 Deep Learning Hub
+
+
 
 > 716 课题组深度学习文献、课程、代码、数据集与科研工具资源导航。
 
